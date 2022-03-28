@@ -1,3 +1,4 @@
+*****Git initialization******
 git init 
 *****Go to Stage***** 
 git add .
