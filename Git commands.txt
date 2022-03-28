@@ -29,5 +29,7 @@ git merge
 git pull
 *****After Chenging file in Branch and Uplode file in Github******** 
 git push --set-upstream origin Branch_name
+***** Git Folder plus File Uplode***********
+git push -u origin main
 
 ****************************Thank you All***********************
