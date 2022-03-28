@@ -1,0 +1,32 @@
+git init 
+*****Go to Stage***** 
+git add .
+git add -all / git add -A
+*****Git commit******
+git commit -m "message"
+*****Git file create*****
+git rm File_name
+*****Create Branch*******
+git branch Branch_name
+*****Looking Status*******
+git status
+*****Git clone*******
+git clone URL
+*****Go branch ******
+git checkout Branch_name
+*****Merge File in Branch****** 
+git merge Branch_name
+*****Github add in local file****
+git remote add origin URL
+*****TO Uplode Local file in Github*****
+git push
+*****To Fetch File GitHub to local File******
+git fetch
+***** Mearge Local file with Github File*******
+git merge
+*****Both work Fetch & Merge local file with Github File****** 
+git pull
+*****After Chenging file in Branch and Uplode file in Github******** 
+git push --set-upstream origin Branch_name
+
+****************************Thank you All***********************
