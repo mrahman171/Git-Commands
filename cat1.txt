@@ -1,4 +1,23 @@
-hello
-i am abdur rahman 
-now i am playing game 
-so be keeping 
+import 'package:flutter/material.dart';
+
+void main() {
+  return runApp(
+    MaterialApp(
+      home: Scaffold(
+        backgroundColor: Colors.red,
+        appBar: AppBar(
+          title: Text('Give the Title'),
+          backgroundColor: Colors.red,
+        ),
+        body: DicePage(),
+      ),
+    ),
+  );
+}
+
+class DicePage extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
