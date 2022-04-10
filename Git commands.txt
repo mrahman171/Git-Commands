@@ -1,3 +1,9 @@
+************configure your Username in Git Bash************
+git config --global user.name "UserName"
+************configure your email***************
+git config --global user.email "your Email"
+*************set your password****************
+git config --global user.password "Your Password"
 *****Git initialization******
 git init 
 *****Go to Stage***** 
